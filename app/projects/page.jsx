@@ -16,7 +16,7 @@ const projectData = [
   {
     image: "/work/web kelas public speaking.png",
     category: "html,css,js",
-    name: "Solstice Website",
+    name: "Kelas Public Speaing Dynamite",
     description: "website landng page kelas public speaking yang digunakan untuk promosi pelatihan Upsacademy .",
     link: "https://kelas-public-speaking-dynamic.vercel.app/",
     github: "/",
