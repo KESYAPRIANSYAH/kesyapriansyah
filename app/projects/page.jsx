@@ -65,7 +65,7 @@ const projectData = [
     image: "/work/web freefire.png",
     category: "react js",
     name: "Garena Free fire cloning  ",
-    description: "Lorem ipsum dolor sit amet sonsectetur adipisicing elit. Cumque, quis. ",
+    description: "website Garena Free fire clone dibuat dengan react dan tailwinds untuk tujuan belajar.. ",
     link: "https://ff-cloningweb.vercel.app/",
     github: "https://github.com/KESYAPRIANSYAH/Garena-Freefire-Website.git",
   },
