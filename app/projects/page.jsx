@@ -57,7 +57,7 @@ const projectData = [
     image: "/work/web admin.png",
     category: "fullstack",
     name: "Admin Booking Lapangan Futsal merpati ",
-    description: "website Free fire  clone dibuat dengan react dan tailwinds untuk tujuan belajar..",
+    description: "website Booking Lapangan Futsal yang dibuat dengan menggunakan PHP.",
     link: "/",
     github: "https://github.com/KESYAPRIANSYAH/Merpati-Futsall.git",
   },
