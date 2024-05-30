@@ -72,8 +72,8 @@ const projectData = [
   {
     image: "/work/Klik Jadii web.png",
     category: "wordpress",
-    name: "Garena Free fire cloning  ",
-    description: "Lorem ipsum dolor sit amet sonsectetur adipisicing elit. Cumque, quis. ",
+    name: "Klik Jadi Webs ",
+    description: "Klik Jadi Web merupakan agency jasa pembuatan website murah, cepat dan berkualitas dengan mengutamakan kepuasan client dari Klik Jadi Web. Dengan memanfaatkan media online ini, diharapkan dapat berkontribusi menjadikan perekonomian di Indonesia berkembang Pesat dan mewujudkan Indonesia Emas 2045. ",
     link: "https://klikjadiweb.com/",
     github: "/",
   },
